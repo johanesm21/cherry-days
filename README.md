@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+# 🍒 CherryDays — Period Nutrition & Wellness App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**CherryDays** is a simple and beautifully designed React Native app that empowers women to take charge of their wellness by syncing diet tips with the phases of their menstrual cycle.
 
-## Get started
+<img src="./assets/images/cherry_days_logo.png" width=200 height=200>
 
-1. Install dependencies
+## 🌸 Features
 
-   ```bash
-   npm install
-   ```
+- 📅 **Period Calendar** – Track your cycle day-by-day with elegant visuals.
+- 🧠 **Phase-Based Recommendations** – Tailored food and wellness tips for every cycle phase: Menstrual, Follicular, Ovulation, and Luteal.
+- 🍽️ **Period Diet Guidance** – Smart suggestions for what to eat (and avoid) during each phase.
+- 🌿 **Gentle Reminders** – Encouraging nudges to hydrate, rest, or nourish at just the right time.
+- 🌈 **Soothing UI** – A soft, feminine interface using cherry tones and comforting typography.
 
-2. Start the app
 
-   ```bash
-    npx expo start
-   ```
+## 🚀 Getting Started
 
-In the output, you'll find options to open the app in a
+### 📦 Requirements
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- A device or emulator to run the app
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+### 🛠️ Installation
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/johanesm21/cherrydays.git
+cd cherrydays
+npm install
+npx expo start
