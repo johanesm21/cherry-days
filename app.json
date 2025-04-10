@@ -2,7 +2,7 @@
   "expo": {
     "name": "cherry-days",
     "slug": "cherry-days",
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
